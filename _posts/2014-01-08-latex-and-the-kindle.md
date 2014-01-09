@@ -8,6 +8,15 @@ tags: [LaTeX, Programming, Notes, Linux]
 
 {% include JB/setup %}
 
+tl;dr
+------
+
+I've got a [project](https://github.com/Todd-Davies/latex-template) on Github
+that makes it easy to produce multiple `pdf` files with different styles but the
+same content. Handy for producing documents for the multiple formats.
+
+---------------------------------------
+
 Just before Christmas I bought a Kindle, the main justification being that I
 could use it to read my university course notes on there rather than printing
 them all off and wasting reams of paper.

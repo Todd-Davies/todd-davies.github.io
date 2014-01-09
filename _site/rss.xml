@@ -5,14 +5,18 @@
         <description>Todd Davies' Blog - Todd Davies</description>
         <link>http://todd-davies.github.io</link>
         <link>http://todd-davies.github.io</link>
-        <lastBuildDate>2014-01-09T08:43:56+00:00</lastBuildDate>
-        <pubDate>2014-01-09T08:43:56+00:00</pubDate>
+        <lastBuildDate>2014-01-09T09:03:01+00:00</lastBuildDate>
+        <pubDate>2014-01-09T09:03:01+00:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>LaTeX and the Kindle</title>
-                <description>&lt;p&gt;Just before Christmas I bought a Kindle, the main justification being that I could use it to read my university course notes on there rather than printing them all off and wasting reams of paper.&lt;/p&gt;
+                <description>&lt;h2 id=&quot;tldr&quot;&gt;tl;dr&lt;/h2&gt;
+
+&lt;p&gt;I’ve got a &lt;a href=&quot;https://github.com/Todd-Davies/latex-template&quot;&gt;project&lt;/a&gt; on Github that makes it easy to produce multiple &lt;code&gt;pdf&lt;/code&gt; files with different styles but the same content. Handy for producing documents for the multiple formats.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Just before Christmas I bought a Kindle, the main justification being that I could use it to read my university course notes on there rather than printing them all off and wasting reams of paper.&lt;/p&gt;
 
 &lt;h2 id=&quot;the_problem&quot;&gt;The problem&lt;/h2&gt;
 
