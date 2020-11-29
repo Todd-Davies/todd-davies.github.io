@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todd Davies</title>
+    <link>https://todddavi.es/</link>
+    <description>Recent content on Todd Davies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://todddavi.es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todd Davies - Home</title>
+      <link>https://todddavi.es/</link>
+      <pubDate>Sun, 29 Nov 2020 10:57:03 +0100</pubDate>
+      
+      <guid>https://todddavi.es/</guid>
+      <description>I&amp;rsquo;m a 25 year old software engineer at Google Munich. In parallel, I&amp;rsquo;m studying for a masters degree in Politics and Technology at Technical University Munich. Before that, I studied Computer Science at the University of Manchester.
+I enjoy keeping fit, debating, philosophizing, learning, and thinking about things like policy, security, sustainability, privacy, fashion, software engineering, intelligence, etc. When I&amp;rsquo;m not doing something related to those, I&amp;rsquo;m likely working through my 2020 reading list.</description>
+    </item>
+    
+  </channel>
+</rss>
