@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Todd Davies - Home on Todd Davies</title>
-    <link>https://todddavi.es/</link>
-    <description>Recent content in Todd Davies - Home on Todd Davies</description>
+    <title>Blogs on Todd Davies</title>
+    <link>https://todddavi.es/blog/</link>
+    <description>Recent content in Blogs on Todd Davies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 10:57:03 +0100</lastBuildDate><atom:link href="https://todddavi.es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2019 16:24:32 +0100</lastBuildDate><atom:link href="https://todddavi.es/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Pull</title>
       <link>https://todddavi.es/blog/how-to-pull/</link>
@@ -25,17 +25,6 @@ Soon after starting at university, I started to become frustrated with the rathe
       <guid>https://todddavi.es/blog/starting-a-blog/</guid>
       <description>The internet has gotten a lot of flak recently for facilitating information pollution via the World Wide Web, which is a shame, since the internet is also an incredible force for good in the world.
 I recently realised how much I love looking at what people produce online. It&amp;rsquo;s easy for me to spend lots of time looking at aggregated content on Hacker News and Lobste.rs, in part, because it&amp;rsquo;s rich in stuff that represents the best of the web; highly heterogeneous content from individual creators who are passionate about what they&amp;rsquo;re doing.</description>
-    </item>
-    
-    <item>
-      <title>Todd Davies - Notes</title>
-      <link>https://todddavi.es/notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://todddavi.es/notes/</guid>
-      <description>Here are most of the notes that I made while studying for various exams. I&#39;m currently studying for a masters degree in Politics and Technology, and my notes should appear here when I&#39;ve finished courses.
-Previous notes from my GCSE, A-level and Bachelors level examinations are here too. Please double check all information in them whilst revising, there&#39;s no guarantee that they are correct.
-Politics and Technology  Name Course code Download   Introduction to Politics and Technology  POL40100 pdf   BSc Computer Science (third year)  Name Course code Download   Advanced Algorithms I  COMP36112 pdf, kindle   </description>
     </item>
     
   </channel>
