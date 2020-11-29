@@ -8,15 +8,19 @@
   </url>
   
   <url>
-    <loc>https://todddavi.es/notes/</loc>
-  </url>
-  
-  <url>
     <loc>https://todddavi.es/categories/</loc>
   </url>
   
   <url>
     <loc>https://todddavi.es/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://todddavi.es/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://todddavi.es/notes/</loc>
   </url>
   
 </urlset>
