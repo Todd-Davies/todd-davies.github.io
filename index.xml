@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Nov 2020 10:57:03 +0100</lastBuildDate><atom:link href="https://todddavi.es/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mastodon Verification</title>
+      <link>https://todddavi.es/mastodon_verification/</link>
+      <pubDate>Mon, 25 Apr 2022 12:11:46 +0200</pubDate>
+      
+      <guid>https://todddavi.es/mastodon_verification/</guid>
+      <description> Mastodon </description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>https://todddavi.es/research/</link>
       <pubDate>Fri, 25 Jun 2021 12:11:46 +0200</pubDate>
