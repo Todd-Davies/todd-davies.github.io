@@ -104,7 +104,6 @@ hr {
 }
 
 hr:before {
-    content: "☁";
     font-size: 3rem;
     display: block;
     height: 3rem;
