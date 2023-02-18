@@ -115,3 +115,15 @@ hr:before {
 footer {
     min-height: 0rem;
 }
+
+/* Mobile mode */
+
+@media only screen and (max-width: 414px) {
+    .header {
+        display: none;
+    }
+
+    h1, address {
+        text-align: center;
+    }
+}
