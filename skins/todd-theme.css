@@ -47,9 +47,14 @@ address {
 }
 
 a {
-    /* font-weight: 600; */
     text-decoration: none;
+    color: #000000;
+    text-shadow: 0px 0px 0.5px var(--accent);
+}
+
+address a {
     color: var(--accent);
+    text-shadow: 0px 0px #ffff0083;
 }
 
 /* Floaty card effect */
