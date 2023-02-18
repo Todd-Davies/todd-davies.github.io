@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/fonts/font/Typewriter/cmuntt.eot');
+	src: url('/fonts/font/Typewriter/cmuntt.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter/cmuntt.woff') format('woff'),
+		 url('/fonts/font/Typewriter/cmuntt.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter/cmuntt.svg#cmuntt') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/fonts/font/Typewriter/cmuntb.eot');
+	src: url('/fonts/font/Typewriter/cmuntb.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter/cmuntb.woff') format('woff'),
+		 url('/fonts/font/Typewriter/cmuntb.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter/cmuntb.svg#cmuntb') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/fonts/font/Typewriter/cmunit.eot');
+	src: url('/fonts/font/Typewriter/cmunit.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter/cmunit.woff') format('woff'),
+		 url('/fonts/font/Typewriter/cmunit.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter/cmunit.svg#cmunit') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+
+@font-face {
+	font-family: 'Computer Modern Typewriter';
+	src: url('/fonts/font/Typewriter/cmuntx.eot');
+	src: url('/fonts/font/Typewriter/cmuntx.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter/cmuntx.woff') format('woff'),
+		 url('/fonts/font/Typewriter/cmuntx.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter/cmuntx.svg#cmuntx') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+

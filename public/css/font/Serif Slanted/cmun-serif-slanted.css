@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Computer Modern Serif Slanted';
+	src: url('/fonts/font/Serif Slanted/cmunsl.eot');
+	src: url('/fonts/font/Serif Slanted/cmunsl.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Serif Slanted/cmunsl.woff') format('woff'),
+		 url('/fonts/font/Serif Slanted/cmunsl.ttf') format('truetype'),
+		 url('/fonts/font/Serif Slanted/cmunsl.svg#cmunsl') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Computer Modern Serif Slanted';
+	src: url('/fonts/font/Serif Slanted/cmunbl.eot');
+	src: url('/fonts/font/Serif Slanted/cmunbl.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Serif Slanted/cmunbl.woff') format('woff'),
+		 url('/fonts/font/Serif Slanted/cmunbl.ttf') format('truetype'),
+		 url('/fonts/font/Serif Slanted/cmunbl.svg#cmunbl') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}

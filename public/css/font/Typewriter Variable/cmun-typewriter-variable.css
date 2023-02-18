@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'Computer Modern Typewriter Variable';
+	src: url('/fonts/font/Typewriter Variable/cmunvt.eot');
+	src: url('/fonts/font/Typewriter Variable/cmunvt.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter Variable/cmunvt.woff') format('woff'),
+		 url('/fonts/font/Typewriter Variable/cmunvt.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter Variable/cmunvt.svg#cmuntt') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Computer Modern Typewriter Variable';
+	src: url('/fonts/font/Typewriter Variable/cmunvi.eot');
+	src: url('/fonts/font/Typewriter Variable/cmunvi.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter Variable/cmunvi.woff') format('woff'),
+		 url('/fonts/font/Typewriter Variable/cmunvi.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter Variable/cmunvi.svg#cmunvi') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+

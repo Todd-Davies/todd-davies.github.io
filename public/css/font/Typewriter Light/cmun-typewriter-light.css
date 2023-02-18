@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Computer Modern Typewriter Light';
+	src: url('/fonts/font/Typewriter Light/cmunbtl.eot');
+	src: url('/fonts/font/Typewriter Light/cmunbtl.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter Light/cmunbtl.woff') format('woff'),
+		 url('/fonts/font/Typewriter Light/cmunbtl.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter Light/cmunbtl.svg#cmuntt') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Computer Modern Typewriter Light';
+	src: url('/fonts/font/Typewriter Light/cmunbto.eot');
+	src: url('/fonts/font/Typewriter Light/cmunbto.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Typewriter Light/cmunbto.woff') format('woff'),
+		 url('/fonts/font/Typewriter Light/cmunbto.ttf') format('truetype'),
+		 url('/fonts/font/Typewriter Light/cmunbto.svg#cmunbto') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+

@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Computer Modern Bright Semibold';
+	src: url('/fonts/font/Bright Semibold/cmunbsr.eot');
+	src: url('/fonts/font/Bright Semibold/cmunbsr.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Bright Semibold/cmunbsr.woff') format('woff'),
+		 url('/fonts/font/Bright Semibold/cmunbsr.ttf') format('truetype'),
+		 url('/fonts/font/Bright Semibold/cmunbsr.svg#cmunbsr') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Computer Modern Bright Semibold';
+	src: url('/fonts/font/Bright Semibold/cmunbso.eot');
+	src: url('/fonts/font/Bright Semibold/cmunbso.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/font/Bright Semibold/cmunbso.woff') format('woff'),
+		 url('/fonts/font/Bright Semibold/cmunbso.ttf') format('truetype'),
+		 url('/fonts/font/Bright Semibold/cmunbso.svg#cmunbso') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
