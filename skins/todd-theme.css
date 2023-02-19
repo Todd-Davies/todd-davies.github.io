@@ -7,6 +7,8 @@ Made by Todd Davies
     --color-shadow: rgba(0, 0, 0, .2);
     --border-radius: 3rem;
     --content-width: 800px;
+    --spin-time: 2s;
+    --circle-size: 100px;
 }
 
 @media (prefers-color-scheme: light) {
@@ -78,14 +80,6 @@ address a {
     }
 }
 
-/* Your profile image styles */
-
-#author-img {
-    border-radius: 50%;
-    border: 2px solid var(--accent);
-    animation: float 5s ease-in-out infinite;
-}
-
 div#author-flex {
     align-items: flex-start;
 }
@@ -137,5 +131,89 @@ footer {
 
     h1, address {
         text-align: center;
+    }
+}
+
+.hidden-photo {
+    visibility: hidden;
+    border-radius: 50%;
+    border: 2px solid var(--accent);
+}
+
+.circle-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.5s;
+}
+
+.circle-wrapper:hover, .circle-wrapper:active {
+    --spin-time: 0.5s;
+    transform: translate3D(-0%, -20%, 0) scale(1.1);
+}
+
+.circles {
+    min-height: var(--circle-size);
+    min-width: var(--circle-size);
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    animation: float 5s ease-in-out infinite;
+    transform: translate3D(-0%, -0%, 0);
+    /* background-image: url("https://pbs.twimg.com/profile_images/1627070501335203840/6OhSd_DR_400x400.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.circle {
+    box-sizing: border-box;
+    position: absolute;
+    background: #FFFFFF00;
+    width: var(--circle-size);
+    height: var(--circle-size);
+    border: 2px solid transparent;
+    border-radius: 121% 128% 125% 124%/125% 120% 127% 125%
+}
+    .circle:nth-child(1) {
+        transform-origin: 49.5% 50%;
+        animation: spin1 var(--spin-time) linear infinite;
+        border-color: var(--accent);
+    }
+    .circle:nth-child(2) {
+        transform-origin: 50% 50.5%;
+        animation: spin2 var(--spin-time) linear infinite;
+        border-color: var(--accent);
+    }
+    .circle:nth-child(3) {
+        transform-origin: 50.5% 50%;
+        animation: spin3 var(--spin-time) linear infinite;
+        border-color: var(--accent);
+    }
+
+@keyframes spin1 {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spin2 {
+    0% {
+        transform: rotate(-144deg);
+    }
+    100% {
+        transform: rotate(216deg);
+    }
+}
+
+@keyframes spin3 {
+    0% {
+        transform: rotate(216deg);
+    }
+    100% {
+        transform: rotate(-144deg);
     }
 }
