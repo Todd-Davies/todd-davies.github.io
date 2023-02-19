@@ -148,7 +148,7 @@ footer {
 
 .circle-wrapper:hover, .circle-wrapper:active {
     --spin-time: 0.5s;
-    transform: translate3D(-0%, -20%, 0) scale(1.1);
+    transform: translate3D(-0%, -20%, 0) scale(1.25);
 }
 
 .circles {
@@ -159,7 +159,6 @@ footer {
     left: 50%;
     animation: float 5s ease-in-out infinite;
     transform: translate3D(-0%, -0%, 0);
-    /* background-image: url("https://pbs.twimg.com/profile_images/1627070501335203840/6OhSd_DR_400x400.jpg"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
