@@ -1,15 +1,39 @@
 /* feed */
 
 div.properties__row  {
-    flex-direction: row;
+    display: block;
     justify-content: space-between;
     position: relative;
     min-height: 1.5rem;
     max-height: 4rem;
 }
 
+div.fill-remaining-space {
+    flex: auto;
+}
+
+hr.header-rule {
+  height: 0;
+  width: 100%;
+  border: 0.5px solid var(--accent);
+  border-radius: 0.5px;
+  font-size: 2rem;
+}
+
 p.properties {
     padding-top: 0 !important;
+}
+
+div.home  {
+    width: 100%;
+}
+
+div.home>a  {
+    text-decoration: none;
+}
+
+h2.p-name  {
+    margin-top: 1rem;
 }
 
 .icon {
@@ -37,15 +61,20 @@ li.feed__li {
     z-index: 2;
 }
 
+.e-content>ul {
+    line-height: 1;
+    padding-bottom: 0px !important;
+}
+
+/* Lol what a mess */
+.e-content>ul>li>ul {
+    line-height: 1;
+    margin-top: -0.75em;
+}
+
 div.feed__content {
     overflow: hidden;
     word-wrap: break-word;
-    background-color: var(--item-bg);
-    box-shadow: var(--shadow-shape) var(--color-shadow);
-    padding: var(--content-padding);
-    margin: var(--content-margin);
-    border-radius: var(--border-radius);
-    border: 2px solid var(--accent);
 }
 
 #open {

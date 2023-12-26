@@ -6,8 +6,8 @@ Probability of breaking layout: 10%
 @media (prefers-color-scheme: light) {
     :root {
       /* Change me */
-        --accent: #272c52;
-        --color-primary: #24292e;
+        --accent: #000;
+        --color-primary: #000;
         --color-secondary: rgb(100, 100, 100);
         --color-bg: white;
         --item-bg: #f5f5f5;

@@ -1,7 +1,7 @@
 /* markdown content */
 
 .md p>a {
-    border-bottom: 1px solid var(--accent);
+    text-decoration-color: var(--accent);
 }
 
 .md h1, .md h2, .md h3, .md h4 {

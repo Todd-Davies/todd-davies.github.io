@@ -23,8 +23,9 @@ body {
 
 a {
     font-weight: 300;
-    text-decoration: none;
-    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    color: var(--color-primary);
 }
 
 p {

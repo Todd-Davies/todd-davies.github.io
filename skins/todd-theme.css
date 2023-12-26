@@ -13,9 +13,12 @@ Made by Todd Davies
 
 @media (prefers-color-scheme: light) {
     :root {
-       --color-bg: linear-gradient(0deg, #ca2db0d7, #9de7f9 90%);
+        --color-bg: linear-gradient(336deg, #ca2db0d7, rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, #9de7f9, rgba(0,255,0,0) 70.71%),
+            linear-gradient(90deg, #ffcc5d, rgba(0,255,0,0) 70.71%),
+            linear-gradient(217deg, #52ffc5, rgba(0,0,255,0) 70.71%);
        --item-bg: #f5f5f5;
-       --accent: #f53cd6;
+       --accent: #ca2db0;
    }
 
    a {
@@ -25,7 +28,7 @@ Made by Todd Davies
 
 @media (prefers-color-scheme: dark) {
     :root {
-       --color-bg: linear-gradient(0deg, #222222, #24292e);;
+       --color-bg: linear-gradient(0deg, #142908,#232007, #211007, #20070d);
        --item-bg: #373f47;
        --accent: teal;
    }
@@ -46,6 +49,18 @@ body {
     background: var(--color-bg);
 }
 
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
 h1 {
     font-family: "Computer Modern Sans", Macintosh, monospace !important;
     font-style: bold;
@@ -57,8 +72,12 @@ address {
 }
 
 a {
-    text-decoration: none;
-    text-shadow: 0px 0px 0.5px var(--accent);
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+}
+
+a:hover {
+    text-shadow: 0px 0px 1px var(--accent);
 }
 
 address a {
@@ -107,6 +126,7 @@ hr {
     height: 3rem;
     width: 3rem;
     font-family: Macintosh, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', monospace !important;
+    border-color: var(--accent);
 }
 
 hr:before {
