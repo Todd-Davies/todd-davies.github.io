@@ -1,36 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Todd Davies&#39; Website</title>
-    <link>https://todddavi.es/</link>
-    <description>Read the latest on Todd Davies&#39; Website</description>
+    <title>Posts on Todd Davies&#39; Website</title>
+    <link>https://todddavi.es/posts/</link>
+    <description>Read the latest  Posts on Todd Davies&#39; Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>todd@todddavi.es (Todd Davies)</managingEditor>
-    <webMaster>todd@todddavi.es (Todd Davies)</webMaster><atom:link href="https://todddavi.es/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://todddavi.es/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>todd@todddavi.es (Todd Davies)</author>
-      <guid>https://todddavi.es/about/</guid>
-      <description>I&amp;rsquo;m a PhD candidate in Law at University College London. My research draws from ecology and evolutionary economics to ask how competition law can understand market competition as a process. I work as a graduate lecturer at the UCL Laws, where I also run the Law and Political Economy Group.
-I hold a master&amp;rsquo;s degree in Politics and Technology from the Technical University Munich and a bachelor&amp;rsquo;s degree in Computer Science from The University of Manchester.</description>
-      <content:encoded>
-        <![CDATA[ <p>I&rsquo;m a PhD candidate in Law at <a href="https://www.ucl.ac.uk/laws/">University College
-London</a>. My research draws from ecology and evolutionary economics to ask how competition law can understand market competition as a process. I work as a graduate lecturer at the <a href="https://www.ucl.ac.uk/laws/ucl-faculty-laws">UCL Laws</a>, where I also run the <a href="https://sites.google.com/view/ucl-lpe/home">Law and Political Economy Group</a>.</p>
-<p>I hold a master&rsquo;s degree in <a href="https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc">Politics and
-Technology</a>
-from the <a href="https://www.tum.de/en/">Technical University Munich</a> and a
-bachelor&rsquo;s degree in <a href="https://www.cs.manchester.ac.uk/">Computer
-Science</a> from <a href="https://www.manchester.ac.uk">The University of
-Manchester</a>. I previously worked for six years as a software engineer at <a href="https://google.com">Google</a>, mostly in the security and privacy space.</p>
-<p>I&rsquo;m interested in topics which ultimately impact human
-flourishing. In particular, virtue ethics and how social technologies can be a force for good in an age of metacrisis (surpassed planetary boundaries, increasing inequality, geopolitical strife, existential risk production, etc).</p>
- ]]>
-      </content:encoded>
-    </item>
-    
+    <webMaster>todd@todddavi.es (Todd Davies)</webMaster><atom:link href="https://todddavi.es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Things I Believe</title>
       <link>https://todddavi.es/posts/beliefs/</link>
