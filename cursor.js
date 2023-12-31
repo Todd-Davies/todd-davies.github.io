@@ -1,5 +1,5 @@
 function getColour(dark) { 
-    return dark ? "#FFFFFF55" : "#00000055";
+  return dark ? "#FFFFFF55" : "#00000055";
 }
 var colour = getColour(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
 
