@@ -36,7 +36,7 @@ div[rel=author]>div>img.u-photo {
 }
 
 h1.p-name {
-    color: var(--accent);
+    /* color: var(--accent); */
     font-size: calc(1.7rem * var(--scale));
     font-weight: 800;
     margin: 0;

@@ -11,7 +11,7 @@ Made by Todd Davies
     --circle-size: 100px;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
     :root {
         --color-bg: linear-gradient(336deg, #ca2db0d7, rgba(255,0,0,0) 70.71%),
             linear-gradient(127deg, #9de7f9, rgba(0,255,0,0) 70.71%),
@@ -31,6 +31,32 @@ Made by Todd Davies
        --color-bg: linear-gradient(0deg, #142908,#232007, #211007, #20070d);
        --item-bg: #373f47;
        --accent: rgb(0, 174, 174);
+   }
+
+   a {
+        color: var(--accent));
+    }
+} */
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --color-bg: #FFF;
+       --item-bg: #f5f5f5;
+       --accent: #0000ff;
+       --accent2: #eaece900;
+   }
+
+   a {
+        color: #000000;
+   }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+       --color-bg: #222;
+       --item-bg: #373f47;
+       --accent: #2f81f7;
+       --accent2: #eaece900;
    }
 
    a {
@@ -74,6 +100,7 @@ address {
 a {
     text-decoration: underline;
     text-decoration-color: var(--accent);
+    color: var(--accent);
 }
 
 a:hover {
@@ -82,7 +109,7 @@ a:hover {
 
 address a {
     color: var(--accent);
-    text-shadow: 0px 0px #ffff0083;
+    /* text-shadow: 0px 0px #0000ff; */
 }
 
 /* Floaty card effect */
@@ -197,17 +224,17 @@ footer {
     .circle:nth-child(1) {
         transform-origin: 49.5% 50%;
         animation: spin1 var(--spin-time) linear infinite;
-        border-color: var(--accent);
+        border-color: var(--accent2);
     }
     .circle:nth-child(2) {
         transform-origin: 50% 50.5%;
         animation: spin2 var(--spin-time) linear infinite;
-        border-color: var(--accent);
+        border-color: var(--accent2);
     }
     .circle:nth-child(3) {
         transform-origin: 50.5% 50%;
         animation: spin3 var(--spin-time) linear infinite;
-        border-color: var(--accent);
+        border-color: var(--accent2);
     }
 
 @keyframes spin1 {
