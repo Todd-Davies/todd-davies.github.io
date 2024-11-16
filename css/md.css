@@ -13,7 +13,7 @@
 }
 
 .md p:last-child {
-    padding-bottom: 1.5rem !important;
+    padding-bottom: 1.5rem;
 }
 
 .md ul, ol {
@@ -36,7 +36,6 @@
 }
 
 blockquote {
-    font-style: italic;
     border-left: 3px solid var(--color-secondary);
     padding-top: 0 !important;
     padding-left: 1rem;
@@ -44,6 +43,7 @@ blockquote {
 
 blockquote > p:first-child {
     padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 /* code blocks */

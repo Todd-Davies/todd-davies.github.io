@@ -18,7 +18,7 @@
 I hold a master&amp;rsquo;s degree in Politics and Technology from the Technical University Munich and a bachelor&amp;rsquo;s degree in Computer Science from The University of Manchester.</description>
       <content:encoded>
         <![CDATA[ <p>I&rsquo;m a PhD candidate in Law at <a href="https://www.ucl.ac.uk/laws/">University College
-London</a>. My research asks how competition law can understand market competition as a process, drawing from theoretical ecology and systems theory to do so. I work as a graduate lecturer at the <a href="https://www.ucl.ac.uk/laws/ucl-faculty-laws">UCL Laws</a>, where I also run the <a href="https://sites.google.com/view/ucl-lpe/home">Law and Political Economy Group</a>.</p>
+London</a>. My <a href="/publications/">research</a> asks how competition law can understand market competition as a process, drawing from theoretical ecology and systems theory to do so. I work as a graduate lecturer at the <a href="https://www.ucl.ac.uk/laws/ucl-faculty-laws">UCL Laws</a>, where I also run the <a href="https://sites.google.com/view/ucl-lpe/home">Law and Political Economy Group</a>.</p>
 <p>I hold a master&rsquo;s degree in <a href="https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc">Politics and
 Technology</a>
 from the <a href="https://www.tum.de/en/">Technical University Munich</a> and a
@@ -26,7 +26,7 @@ bachelor&rsquo;s degree in <a href="https://www.cs.manchester.ac.uk/">Computer
 Science</a> from <a href="https://www.manchester.ac.uk">The University of
 Manchester</a>. I previously worked for six years as a software engineer at <a href="https://google.com">Google</a>, mostly in the security and privacy space.</p>
 <p>I&rsquo;m interested in topics which ultimately impact human
-flourishing. In particular, virtue ethics and how social technologies can be a force for good in an age of metacrisis (surpassed planetary boundaries, increasing inequality, geopolitical strife, existential risk production, etc). Here is a <a href="/beliefs">list of things I believe</a>. Here is a <a href="/cities">list of cities I visited</a> with recommendations and photos.</p>
+flourishing. In particular, virtue ethics and how social technologies can be a force for good in an age of meta/polycrisis (surpassed planetary boundaries, increasing inequality, geopolitical strife, existential risk production, etc). Here is a <a href="/beliefs">list of things I believe</a>.</p>
  ]]>
       </content:encoded>
     </item>
@@ -172,6 +172,37 @@ Parks</li>
 <p>
 <img class="enclosure" src="/cities/rome_4.jpg" alt="A photo I took of three people waving from a boat on a canal in Amsterdam."  />
 </p>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://todddavi.es/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/publications/</guid>
+      <description>All publications should be somehow accessible thorugh open access. Please email me if you can&amp;rsquo;t find a link.
+2024  Davies, T., &amp;amp; Georgieva, Z. (2024). Google AdTech: Break Up or Break Out? Utrecht Law Journal Special Issue on Modern Bigness.   [We ask]: why can’t consumers choose which advertising network they would like to use with Google’s zero-priced online platforms? Our answer is that by integrating its advertising network into its popular online platforms, Google has foreclosed competition in the online advertising market by denying rival supply-side ad networks access to its customer base.</description>
+      <content:encoded>
+        <![CDATA[ <p>All publications should be somehow accessible thorugh open access. Please email me if you can&rsquo;t find a link.</p>
+<h1 id="2024">2024</h1>
+<ul>
+<li>Davies, T., &amp; Georgieva, Z. (2024). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857145">Google AdTech: Break Up or Break Out?</a> Utrecht Law Journal Special Issue on Modern Bigness.</li>
+</ul>
+<blockquote>
+<p>[We ask]: why can’t consumers choose which advertising network they would like to use with Google’s zero-priced online platforms? Our answer is that by integrating its advertising network into its popular online platforms, Google has foreclosed competition in the online advertising market by denying rival supply-side ad networks access to its customer base. We propose a remedy called marketised monetisation, which is complementary to the break-up proposed by the Commission. Marketised monetisation would introduce an interoperability layer between Google’s popular online services and third-party ad networks to make the online advertising market more contestable. The interoperability layer would allow consumers to choose which firm should monetise their usage of Google’s zero-priced products and services.</p>
+</blockquote>
+<ul>
+<li>Davies, T., Loghmani Khouzani, T., &amp; Fath, B. D. (2024). <a href="https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2024.1509972/full">&lsquo;Solutions&rsquo; are not the answer.</a> Frontiers in Sustainability.</li>
+</ul>
+<blockquote>
+<p>We highlight how narrowly framed “solutions” can lead to unintended consequences and policy incoherence when applied to open systems, and advocate for a rhetorical shift from “problems and solutions” to “challenges and responses.”</p>
+</blockquote>
+<h1 id="2020">2020</h1>
+<ul>
+<li>Davies, T. (2020). <a href="https://www.concurrences.com/en/bulletin/news-issues/december-2020/the-eu-commission-proposes-the-digital-markets-act-opening-the-door-to-a">The EU Commission proposes the Digital Markets Act, opening the door to a separation of revenue generation from consumer content which could increase the contestability of zero-priced platforms</a> e-Competitions December 2020, Art. N° 106757 (<a href="https://awards.concurrences.com/en/awards/2021/student-articles/reconceiving-big-tech-decentralizing-the-industry-to-align-incentives-and">open access</a>)</li>
+</ul>
  ]]>
       </content:encoded>
     </item>
