@@ -2,7 +2,7 @@
 
 section>div[rel=author] {
     padding: var(--content-padding);
-    margin-top: 3rem;
+    /* margin-top: 3rem; */
     width: calc(100% - calc(var(--content-padding)*2));
 }
 
