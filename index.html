@@ -41,8 +41,16 @@
     <meta name="twitter:creator" content="daviest_" /> 
 
     
-    <script defer src="https://app.tinyanalytics.io/pixel/FYdkncAr8ICokjDx" data-ignore-dnt="true"></script>
-    
+
+    <script nonce="cspisannoying">
+        fetch("https://app.tinyanalytics.io/pixel/FYdkncAr8ICokjDx", { mode: 'no-cors' })
+          .then(response => {
+            console.log("Pixel loaded successfully");
+          })
+          .catch(error => {
+            console.error("Error loading tracking pixel:", error);
+          });
+      </script>
 
 
     
