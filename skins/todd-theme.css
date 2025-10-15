@@ -146,12 +146,12 @@ div.feed__li {
 
 hr {
     overflow: visible;
-    border: 0;
+    border: 1px dashed;
     position: relative;
     font-size: 3rem;
     display: block;
-    height: 3rem;
-    width: 3rem;
+    /* height: 3rem; */
+    /* width: 3rem; */
     font-family: Macintosh, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', monospace !important;
     border-color: var(--accent);
 }
