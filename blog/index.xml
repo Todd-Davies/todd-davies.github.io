@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Todd Davies&#39; Website</title>
+    <link>https://todddavi.es/blog/</link>
+    <description>Read the latest  Blog on Todd Davies&#39; Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>todd@todddavi.es (Todd Davies)</managingEditor>
+    <webMaster>todd@todddavi.es (Todd Davies)</webMaster>
+    <lastBuildDate>Tue, 28 Oct 2025 00:40:04 -0700</lastBuildDate><atom:link href="https://todddavi.es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dark Side of Computational Antitrust: When AI is Used to Evade the Law</title>
+      <link>https://todddavi.es/blog/dark-side-of-computational-antitrust/</link>
+      <pubDate>Tue, 28 Oct 2025 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/dark-side-of-computational-antitrust/</guid>
+      <description>Originally published on the Kluwer Competition Law Blog.
+ I discuss the emergence of AI powered tooling which proof-read emails before they are sent and flag content which could later be used as evidence in competition law cases. I argue that the use of AI in this manner could harm competition enforcement efforts, but that it doesn&amp;rsquo;t have to be that way. AI could be used in a manner commensurate with both the public and private interest.</description>
+      <content:encoded>
+        <![CDATA[ <p>Originally published on the <a href="https://legalblogs.wolterskluwer.com/competition-blog/the-dark-side-of-computational-antitrust-when-ai-is-used-to-evade-the-law/">Kluwer Competition Law Blog</a>.</p>
+<blockquote>
+<p>I discuss the emergence of AI powered tooling which proof-read emails before they are sent and flag content which could later be used as evidence in competition law cases. I argue that the use of AI in this manner could harm competition enforcement efforts, but that it doesn&rsquo;t have to be that way. AI could be used in a manner commensurate with both the public and private interest. Of course, regulation or guidance from competition authorities might be required to make that a reality.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Podcast - Generative AI: Innovation or Infringement of Competition Law</title>
+      <link>https://todddavi.es/blog/podcast-generative-ai-innovation-or-infringement-of-competition-law/</link>
+      <pubDate>Fri, 24 Oct 2025 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/podcast-generative-ai-innovation-or-infringement-of-competition-law/</guid>
+      <description>I&amp;rsquo;m featured on the Shaping Competition in the Digital Age podcast with Anush Ganesh and Kena Zheng.
+ Talking about, among other things, how I got into competition law from being a software engineer, how there really is no excuse for dominant undertakings designing internet platforms to be anti-competitive, and the need for conceptual clarity in competition law. The content of the episode draws from my preprint about Gen AI &amp;amp; Article 102 TFEU.</description>
+      <content:encoded>
+        <![CDATA[ <p>I&rsquo;m featured on the <a href="https://scidaproject.com/scida-podcasts/">Shaping Competition in the Digital Age podcast</a> with Anush Ganesh and Kena Zheng.</p>
+<blockquote>
+<p>Talking about, among other things, how I got into competition law from being a software engineer, how there really is no excuse for dominant undertakings designing internet platforms to be anti-competitive, and the need for conceptual clarity in competition law. The content of the episode draws from my preprint about <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375544">Gen AI &amp; Article 102 TFEU</a>.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Coordination Across the Channel: The EU and UK Agree on a Competition Cooperation Agreement</title>
+      <link>https://todddavi.es/blog/coordination-across-the-channel-ii/</link>
+      <pubDate>Fri, 18 Jul 2025 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/coordination-across-the-channel-ii/</guid>
+      <description>Originally published on the Kluwer Competition Law Blog with Marina Iskander.
+ On May 20th 2025, the European Commission and the UK’s Competition and Markets Authority (CMA) agreed on a competition cooperation agreement, an important milestone in the evolving relationship between the EU and the UK in competition enforcement, which became institutionally more complex as a result of Brexit. This post introduces the content of the Agreement, compares it to the pre-Brexit scenario as well as to other similar agreements that the Parties have signed, and provides an analysis.</description>
+      <content:encoded>
+        <![CDATA[ <p>Originally published on the <a href="https://legalblogs.wolterskluwer.com/competition-blog/coordination-across-the-channel-the-eu-and-uk-agree-on-a-competition-cooperation-agreement/">Kluwer Competition Law Blog</a> with Marina Iskander.</p>
+<blockquote>
+<p>On May 20th 2025, the European Commission and the UK’s Competition and Markets Authority (CMA) agreed on a competition cooperation agreement, an important milestone in the evolving relationship between the EU and the UK in competition enforcement, which became institutionally more complex as a result of Brexit. This post introduces the content of the Agreement, compares it to the pre-Brexit scenario as well as to other similar agreements that the Parties have signed, and provides an analysis.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Google AdTech: Break Up or Break Out</title>
+      <link>https://todddavi.es/blog/google-ad-tech-break-up-or-break-out/</link>
+      <pubDate>Fri, 18 Jul 2025 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/google-ad-tech-break-up-or-break-out/</guid>
+      <description>Originally published on the EU Law Enforcement Blog.
+ Why does Google hold a dominant position in AdTech? This blog post, summarising my paper in Utrecht Law Review, examines why and proposes a novel remedy which would entail Google divesting its AdTech stack and permitting consumers to choose which advertising network monetises their useage of its online platforms.
+ </description>
+      <content:encoded>
+        <![CDATA[ <p>Originally published on the <a href="https://eulawenforcement.com/?p=9170">EU Law Enforcement Blog</a>.</p>
+<blockquote>
+<p>Why does Google hold a dominant position in AdTech? This blog post, summarising my <a href="https://utrechtlawreview.org/articles/10.36633/ulr.1113">paper in Utrecht Law Review</a>, examines why and proposes a novel remedy which would entail Google divesting its AdTech stack and permitting consumers to choose which advertising network monetises their useage of its online platforms.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Did Meta Tie its AI Assistant to WhatsApp?</title>
+      <link>https://todddavi.es/blog/did-meta-tie-its-ai-assistant-to-whatsapp/</link>
+      <pubDate>Wed, 30 Apr 2025 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/did-meta-tie-its-ai-assistant-to-whatsapp/</guid>
+      <description>Originally published on the Kluwer Competition Law Blog with Marina Iskander.
+ Meta recently integrated its AI assistant, Meta AI, into WhatsApp, Instragram and Facebook. This post, which grew into this paper, analyses whether Meta could have abused its dominant position under competition law by doing so.
+ </description>
+      <content:encoded>
+        <![CDATA[ <p>Originally published on the <a href="https://competitionlawblog.kluwercompetitionlaw.com/2025/04/30/did-meta-tie-its-ai-assistant-to-whatsapp/">Kluwer Competition Law Blog</a> with Marina Iskander.</p>
+<blockquote>
+<p>Meta recently integrated its AI assistant, Meta AI, into WhatsApp, Instragram and Facebook. This post, which grew into <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375544">this paper</a>, analyses whether Meta could have abused its dominant position under competition law by doing so.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Democracy or Domination</title>
+      <link>https://todddavi.es/blog/democracy-or-domination/</link>
+      <pubDate>Thu, 23 Jan 2025 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/democracy-or-domination/</guid>
+      <description>Originally published on the Verfassungsblog with Spencer Cohen.
+ Democracy in Europe is under threat. Competition law, given its history and potential as a tool of anti-domination, is a natural fit to protect and revitalise democracy in Europe. Yet the protection of democracy is habitually said to fall outside the proper scope of competition enforcement. Spencer Cohen and I, drawing from a paper that we published in JCLE, to show how competition law can, through a recalibration of its error cost framework, be used to safeguard against economic domination in markets.</description>
+      <content:encoded>
+        <![CDATA[ <p>Originally published on the <a href="https://verfassungsblog.de/democracy-or-domination/">Verfassungsblog</a> with Spencer Cohen.</p>
+<blockquote>
+<p>Democracy in Europe is under threat. Competition law, given its history and potential as a tool of anti-domination, is a natural fit to protect and revitalise democracy in Europe. Yet the protection of democracy is habitually said to fall outside the proper scope of competition enforcement. Spencer Cohen and I, drawing from a paper that we <a href="https://doi.org/10.1093/joclec/nhaf008">published in JCLE</a>, to show how competition law can, through a recalibration of its error cost framework, be used to safeguard against economic domination in markets.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Coordination Across the Channel: The EU and UK Conclude Technical Negotiations on a Competition Cooperation Agreement</title>
+      <link>https://todddavi.es/blog/coordination-across-the-channel-i/</link>
+      <pubDate>Mon, 25 Nov 2024 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/coordination-across-the-channel-i/</guid>
+      <description>Originally published on the Kluwer Competition Law Blog with Marina Iskander.
+ The UK’s withdrawal from the European Union put European competition policy in a somewhat awkward state. The schism left EU and UK competition law as geographical neighbours and almost identical twins in both legal form and substance, yet worlds apart in terms of their ability to coordinate. This blog post considers the impact of a potential competition agreement between the UK and the EU with regards to helping remedy this somewhat unfortunate sitaution.</description>
+      <content:encoded>
+        <![CDATA[ <p>Originally published on the <a href="https://legalblogs.wolterskluwer.com/competition-blog/coordination-across-the-channel-the-eu-and-uk-conclude-technical-negotiations-on-a-competition-cooperation-agreement/">Kluwer Competition Law Blog</a> with Marina Iskander.</p>
+<blockquote>
+<p>The UK’s withdrawal from the European Union put European competition policy in a somewhat awkward state. The schism left EU and UK competition law as geographical neighbours and almost identical twins in both legal form and substance, yet worlds apart in terms of their ability to coordinate. This blog post considers the impact of a potential competition agreement between the UK and the EU with regards to helping remedy this somewhat unfortunate sitaution.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+    <item>
+      <title>Big Tech is Harming Britain</title>
+      <link>https://todddavi.es/blog/big-tech-is-harming-britain/</link>
+      <pubDate>Thu, 05 Sep 2024 00:40:04 -0700</pubDate>
+      <author>todd@todddavi.es (Todd Davies)</author>
+      <guid>https://todddavi.es/blog/big-tech-is-harming-britain/</guid>
+      <description>Originally published on the Comment Central.
+ Big Tech firms degrade our information environment, both within and beyond the boundaries of their platforms. Dominant firms describe themselves as providing walled gardens which are safe and secure, and claim to invest heavily in combating problematic content. Yet aside from scandals suggesting otherwise, there is reason to be sceptical. Inflammatory and addictive content drives levels of engagement and, thus advertising revenue on platforms.</description>
+      <content:encoded>
+        <![CDATA[ <p>Originally published on the <a href="https://commentcentral.co.uk/big-tech-is-harming-britain">Comment Central</a>.</p>
+<blockquote>
+<p>Big Tech firms degrade our information environment, both within and beyond the boundaries of their platforms. Dominant firms describe themselves as providing walled gardens which are safe and secure, and <a href="https://fortune.com/2021/09/21/facebook-says-it-has-spent-13-billion-on-safety-and-security-efforts-since-2016/">claim to invest heavily</a> in combating problematic content. Yet aside from <a href="https://www.nytimes.com/2021/11/18/technology/meta-instagram-investigation-teens.html">scandals</a> <a href="https://www.theguardian.com/technology/2023/sep/09/x-twitter-bots-republican-primary-debate-tweets-increase">suggesting</a> <a href="https://www.theguardian.com/technology/2024/apr/29/eu-to-investigate-meta-over-election-misinformation-ahead-of-june-polls">otherwise</a>, there is reason to be sceptical. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4830305">Inflammatory and addictive content drives levels of engagement and, thus advertising revenue</a> on platforms. Large platforms are also <a href="https://danluu.com/diseconomies-scale/">juicy targets for scammers and spammers</a>, and need to rely on automated systems to moderate content at such a vast scale. By virtue of their monopoly power, these firms are also unlikely to be responsive to customer demands for higher quality content.</p>
+</blockquote>
+ ]]>
+      </content:encoded>
+    </item>
+    
+  </channel>
+</rss>

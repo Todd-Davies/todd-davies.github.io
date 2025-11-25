@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://todddavi.es/about/</loc>
+    <loc>https://todddavi.es/</loc>
+    <lastmod>2025-10-28T00:40:04-07:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://todddavi.es/blog/</loc>
+    <lastmod>2025-10-28T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/dark-side-of-computational-antitrust/</loc>
+    <lastmod>2025-10-28T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/podcast-generative-ai-innovation-or-infringement-of-competition-law/</loc>
+    <lastmod>2025-10-24T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/coordination-across-the-channel-ii/</loc>
+    <lastmod>2025-07-18T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/google-ad-tech-break-up-or-break-out/</loc>
+    <lastmod>2025-07-18T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/did-meta-tie-its-ai-assistant-to-whatsapp/</loc>
+    <lastmod>2025-04-30T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/democracy-or-domination/</loc>
+    <lastmod>2025-01-23T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/coordination-across-the-channel-i/</loc>
+    <lastmod>2024-11-25T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/blog/big-tech-is-harming-britain/</loc>
+    <lastmod>2024-09-05T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/about/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://todddavi.es/migrate/</loc>
   </url><url>
@@ -21,7 +50,7 @@
   </url><url>
     <loc>https://todddavi.es/tags/</loc>
   </url><url>
-    <loc>https://todddavi.es/</loc>
+    <loc>https://todddavi.es/index.html</loc>
   </url><url>
     <loc>https://todddavi.es/travel/</loc>
   </url>

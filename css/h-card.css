@@ -2,7 +2,7 @@
 
 section>div[rel=author] {
     padding: var(--content-padding);
-    /* margin-top: 3rem; */
+    /*margin-top: 3rem;*/
     width: calc(100% - calc(var(--content-padding)*2));
 }
 
@@ -36,7 +36,7 @@ div[rel=author]>div>img.u-photo {
 }
 
 h1.p-name {
-    /* color: var(--accent); */
+    /*color: var(--accent);*/
     font-size: calc(1.7rem * var(--scale));
     font-weight: 800;
     margin: 0;

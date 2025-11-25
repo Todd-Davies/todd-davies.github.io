@@ -83,12 +83,21 @@ div.feed__content {
     padding: 0;
     padding-top: 1rem;
     max-width: 100%;
-    background-color: var(--item-bg);
-    text-align: center;
+    /* background-color: var(--item-bg); */
+    text-align: right;
 }
 
 #open>a {
     z-index: 2;
+}
+
+#blog-date {
+    font-size: 1rem;
+    color: var(--color-secondary);
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
+    padding-top: 0px;
+    text-align: right;
 }
 
 #tag-list {
