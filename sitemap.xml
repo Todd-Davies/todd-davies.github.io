@@ -2,14 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://todddavi.es/</loc>
-    <lastmod>2025-10-28T00:40:04-07:00</lastmod>
-    <priority>0</priority>
-  </url><url>
     <loc>https://todddavi.es/blog/</loc>
     <lastmod>2025-10-28T00:40:04-07:00</lastmod>
   </url><url>
     <loc>https://todddavi.es/blog/dark-side-of-computational-antitrust/</loc>
+    <lastmod>2025-10-28T00:40:04-07:00</lastmod>
+  </url><url>
+    <loc>https://todddavi.es/</loc>
     <lastmod>2025-10-28T00:40:04-07:00</lastmod>
   </url><url>
     <loc>https://todddavi.es/blog/podcast-generative-ai-innovation-or-infringement-of-competition-law/</loc>
@@ -52,8 +51,6 @@
     <loc>https://todddavi.es/beliefs/</loc>
   </url><url>
     <loc>https://todddavi.es/tags/</loc>
-  </url><url>
-    <loc>https://todddavi.es/index.html</loc>
   </url><url>
     <loc>https://todddavi.es/travel/</loc>
   </url>
